@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Rodrigo Stuff
+title: Another Blog
 
 # Your name to show in the footer
 author: Rodrigo A. Martinez G.
@@ -24,7 +24,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/kOdhnj.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -92,15 +92,15 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
+navbar-col: "#283593"
+navbar-text-col: "#cfd8dc"
 navbar-border-col: "#DDDDDD"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
+footer-col: "#26a69a"
+footer-text-col: "#cfd8dc"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
