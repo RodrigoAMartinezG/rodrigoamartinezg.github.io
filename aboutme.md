@@ -19,8 +19,8 @@ My name is Rodrigo Martinez G and I love do technology stuff and try to learn ne
 <div class="mermaid">
 graph TD;
   A(January 2017<br>Relocation to Barcelona,Spain<br>Consultant at Avanade)-->B(January 2018<br>Cloud Infrastructure Consultant at Accenture );
-  B-->C(October 2019<br>Lead Cloud and DevOps Architect at Zurich Insurance Company);
-  C-->D(August 2020<br>Relocation to Dublin, Ireland<br>Service Development Manager at Zurich Insurance Company)
+  B-->C(October 2019<br>Lead Cloud and DevOps Architect at an Insurance Company);
+  C-->D(August 2020<br>Relocation to Dublin, Ireland<br>Service Development Manager at an Insurance Company)
 </div>
 <script async src="https://unpkg.com/mermaid@8.2.3/dist/mermaid.min.js"></script>
 
