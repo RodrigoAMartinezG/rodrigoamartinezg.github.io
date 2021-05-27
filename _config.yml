@@ -86,7 +86,7 @@ feed_show_excerpt: true
 feed_show_tags: true
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+keywords: "rodrigoamartinezg,azure,keywords"
 
 # --- Colours / background image --- #
 
@@ -172,8 +172,8 @@ staticman:
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : "https://rodrigoamartinezg.herokuapp.com/v2/entry/github/"
   reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
-    siteKey  : 6LccmfYaAAAAAC-73FIS2FIA8-YPBIkWPfYv0R6J
-    secret   : irzS9XVgD37eaeC6aWcbFbuXuuhK13fLc19cXCZGJuymSJqNrjvK6BYpbvHsAlBo5MWCNBrvFCK1rrSguwYwivYbK3tWnb8tlIDP3M8C/T8S9Tl7sOM4GXQw++kbcdFctGNmccMct+Ve/JYScVerogTQqppssbwOzF486dMPh0TrStczRXvYQU4N/G4eIbSX6T7TkeJKD55lQyuwtkNM4aRXw2Oibx+PIhcyZaUkMys/xjeB9nsQq8vuFjMA7zi1MzBd6ahAXp341Ke4H2/xG7wtcwHfvaG4ixlsunWH4Ath2GPbFPib+G0V72ZIhVvyEEuFf68uXE8xVcGHV468mQ==
+    siteKey  : "6LccmfYaAAAAAC-73FIS2FIA8-YPBIkWPfYv0R6J"
+    secret   : "irzS9XVgD37eaeC6aWcbFbuXuuhK13fLc19cXCZGJuymSJqNrjvK6BYpbvHsAlBo5MWCNBrvFCK1rrSguwYwivYbK3tWnb8tlIDP3M8C/T8S9Tl7sOM4GXQw++kbcdFctGNmccMct+Ve/JYScVerogTQqppssbwOzF486dMPh0TrStczRXvYQU4N/G4eIbSX6T7TkeJKD55lQyuwtkNM4aRXw2Oibx+PIhcyZaUkMys/xjeB9nsQq8vuFjMA7zi1MzBd6ahAXp341Ke4H2/xG7wtcwHfvaG4ixlsunWH4Ath2GPbFPib+G0V72ZIhVvyEEuFf68uXE8xVcGHV468mQ=="
 
 # --- Misc --- #
 
