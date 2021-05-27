@@ -172,8 +172,8 @@ staticman:
   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
   endpoint   : "https://rodrigoamartinezg.herokuapp.com/v2/entry/github/"
   reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
-    siteKey  : 6Lc0NPYaAAAAAER-FTXyJE3NKUzLRvYyfTUFYvHF
-    secret   : mUJK3tCrfl5E66tmwffc54inAyz6OJx20vMYtkO4FssMsBJHmNcaEGU3JEDuKIMkaPHwJBrXCFfklXqoknnTKODRlBnnuRcuf/pD0SmA9igK9qY6dy0vJCNSAuQcVh/LYWbpOFOeyfwUJIba+ZcjNsgZYug9Vw0LFcKXYbzdp+zBfkE1lhgbH7lnFp8luqfTpZjq2P1tRzsBb6rVePNAg4ZhDnUZgsnqMksr5G4puq5aaymVmnX51CWYj+JOJdFp7sU9hj/x2wN7/vEIR62bDimHZxusElYKJaVmpaoJ2015WzoLGUdgowf469RvQXX72jklWiYvhUfjd6vCTUiAbQ==
+    siteKey  : 6LccmfYaAAAAAC-73FIS2FIA8-YPBIkWPfYv0R6J
+    secret   : irzS9XVgD37eaeC6aWcbFbuXuuhK13fLc19cXCZGJuymSJqNrjvK6BYpbvHsAlBo5MWCNBrvFCK1rrSguwYwivYbK3tWnb8tlIDP3M8C/T8S9Tl7sOM4GXQw++kbcdFctGNmccMct+Ve/JYScVerogTQqppssbwOzF486dMPh0TrStczRXvYQU4N/G4eIbSX6T7TkeJKD55lQyuwtkNM4aRXw2Oibx+PIhcyZaUkMys/xjeB9nsQq8vuFjMA7zi1MzBd6ahAXp341Ke4H2/xG7wtcwHfvaG4ixlsunWH4Ath2GPbFPib+G0V72ZIhVvyEEuFf68uXE8xVcGHV468mQ==
 
 # --- Misc --- #
 
