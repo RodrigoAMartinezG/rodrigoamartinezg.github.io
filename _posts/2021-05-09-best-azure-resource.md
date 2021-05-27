@@ -5,8 +5,10 @@ subtitle: A couple of examples to show why Azure Logic Apps might be the best re
 cover-img: /assets/img/undraw_Online_calendar_re_wk3t.svg
 thumbnail-img: /assets/img/10201-icon-service-Logic-Apps.svg
 share-img: /assets/img/undraw_Online_calendar_re_wk3t.svg
+gh-badge: [star, fork, follow]
 gh-repo: RodrigoAMartinezG/rodrigoamartinezg.github.io
 tags: [Azure, LogicApps]
+comments: true
 ---
 
 I'm not a developer, and although I'm doing courses and trainings, I'm really bad, mostly because of lack of creativity.
